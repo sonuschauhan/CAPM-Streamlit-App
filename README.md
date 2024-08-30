@@ -18,9 +18,9 @@ Streamlit: Web application framework for building interactive dashboards.
 Yahoo Finance API: For fetching historical stock price data.
 Pandas: Data manipulation and analysis.
 Plotly: For creating interactive visualizations.
-Usage
+# Usage
 Select up to 4 stocks from the provided list.
 Choose the number of years for historical data.
 The app will display stock price trends, calculate Beta values, and provide expected returns based on the CAPM model.
-Conclusion
+# Conclusion
 This project provides a user-friendly interface for investors and analysts to assess the risk and expected return of different stocks using the CAPM framework.
