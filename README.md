@@ -11,6 +11,7 @@ Beta Calculation: The app calculates the Beta value for each stock, indicating i
 Expected Return Calculation: Using the CAPM formula, the app computes the expected return for each stock based on its Beta value.
 # Web Application
 The web application is live and can be accessed here.
+https://capm-app-app-ntdnexfa8rcxmgrkbswadi.streamlit.app/
 
 # Technologies Used
 Python: Backend logic and data manipulation.
